@@ -106,14 +106,23 @@ const App = () => {
 											>
 												{title}
 											</p>
-											<span style={{height: '100px', width:'200px', backgroundColor:'green', borderRadius:'20px', padding: '15px'}}>
+											<span
+												style={{
+													height: '100px',
+													width: '200px',
+													backgroundColor: 'green',
+													borderRadius: '20px',
+													padding: '15px',
+												}}
+											>
 												<a
 													href={`https://yts.mx/movies/${title
 														.replace(/\s+/g, '-')
+														.replace(/[^-\w]/g, '')
 														.toLowerCase()}-${release_date.substring(0, 4)}`}
-														target='_blank'
-														rel='noopener noreferrer'
-													style={{textDecoration: 'none', color: 'white'}}
+													target='_blank'
+													rel='noopener noreferrer'
+													style={{ textDecoration: 'none', color: 'white' }}
 												>
 													Download
 												</a>
