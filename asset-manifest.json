@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/weekly-movie-trends/static/css/main.4034680b.chunk.css",
+    "main.js": "/weekly-movie-trends/static/js/main.980bc971.chunk.js",
+    "main.js.map": "/weekly-movie-trends/static/js/main.980bc971.chunk.js.map",
+    "runtime-main.js": "/weekly-movie-trends/static/js/runtime-main.a4482f5e.js",
+    "runtime-main.js.map": "/weekly-movie-trends/static/js/runtime-main.a4482f5e.js.map",
+    "static/js/2.8962840a.chunk.js": "/weekly-movie-trends/static/js/2.8962840a.chunk.js",
+    "static/js/2.8962840a.chunk.js.map": "/weekly-movie-trends/static/js/2.8962840a.chunk.js.map",
+    "index.html": "/weekly-movie-trends/index.html",
+    "precache-manifest.d2c58c593ab2ca0a1fb631691bf368e4.js": "/weekly-movie-trends/precache-manifest.d2c58c593ab2ca0a1fb631691bf368e4.js",
+    "service-worker.js": "/weekly-movie-trends/service-worker.js",
+    "static/css/main.4034680b.chunk.css.map": "/weekly-movie-trends/static/css/main.4034680b.chunk.css.map",
+    "static/js/2.8962840a.chunk.js.LICENSE.txt": "/weekly-movie-trends/static/js/2.8962840a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4482f5e.js",
+    "static/js/2.8962840a.chunk.js",
+    "static/css/main.4034680b.chunk.css",
+    "static/js/main.980bc971.chunk.js"
+  ]
+}
