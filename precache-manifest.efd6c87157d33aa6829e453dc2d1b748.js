@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "480e1ca8bd1fc7138d6712305acec0b6",
+    "revision": "3d9fc4856043b2da05145b433e8365d7",
     "url": "/weekly-movie-trends/index.html"
   },
   {
-    "revision": "5d20ba14a7c9ada6a802",
+    "revision": "b986aa585f1f8734fa7d",
     "url": "/weekly-movie-trends/static/css/main.4034680b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/weekly-movie-trends/static/js/2.8962840a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5d20ba14a7c9ada6a802",
-    "url": "/weekly-movie-trends/static/js/main.980bc971.chunk.js"
+    "revision": "b986aa585f1f8734fa7d",
+    "url": "/weekly-movie-trends/static/js/main.fa882a5b.chunk.js"
   },
   {
     "revision": "1428d4d6df65a0ab8027",
