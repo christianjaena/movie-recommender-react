@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import './App.css';
-
+import Loader from 'react-loader-spinner'
 const App = () => {
 	const [movies, setMovies] = useState([]);
 	const [isLoaded, setIsLoaded] = useState(false);
@@ -111,8 +111,8 @@ const App = () => {
 													height: '100px',
 													width: '200px',
 													backgroundColor: 'green',
-													borderRadius: '20px',
-													padding: '15px',
+													borderRadius: '10px',
+													padding: '10px',
 												}}
 											>
 												<a
@@ -147,7 +147,7 @@ const App = () => {
 							);
 						}
 				  )
-				: null}
+				:<Loader type="Bars" color="#E30914" height={80} width={80} style={{position: 'absolute', top: '45%'}} /> }
 		</div>
 	);
 };
